@@ -1,20 +1,21 @@
 <template>
-  <div class="flex flex-col gap-3 items-center ">
-    <div class="rounded-full bg-white w-[14px] h-[14px]">
 
-    </div>
-    <div class="rounded-full border-4 border-white w-[14px] h-[14px]">
+  <div class="flex flex-col gap-3 items-center absolute right-10 top-1/2 transform -translate-y-1/2">
+    <a href="#welcome" class="rounded-full bg-white w-[14px] h-[14px] cursor-pointer">
 
-    </div>
-    <div class="rounded-full border-4 border-white w-[14px] h-[14px]">
+    </a>
+    <a href="#technologies" class="rounded-full border-4 border-white w-[14px] h-[14px] cursor-pointer">
 
-    </div>
-    <div class="rounded-full border-4 border-white w-[14px] h-[14px]">
+    </a>
+    <a href="#about" class="rounded-full border-4 border-white w-[14px] h-[14px] cursor-pointer">
 
-    </div>
-    <div class="rounded-full border-4 border-white w-[14px] h-[14px]">
+    </a>
+    <a href="#team" class="rounded-full border-4 border-white w-[14px] h-[14px] cursor-pointer">
 
-    </div>
+    </a>
+    <a href="#" class="rounded-full border-4 border-white w-[14px] h-[14px] cursor-pointer">
+
+    </a>
 
 
   </div>
